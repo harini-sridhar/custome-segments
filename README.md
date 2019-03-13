@@ -21,5 +21,3 @@ This project contains these files:
 - `customers.csv`: The project dataset which is loaded in the notebook.
 - `visuals.py`: This Python script contains supplementary visualizations for the project and was provided by Udacity.
 
-
-This project was a part of the Udacity nanodegree program.
